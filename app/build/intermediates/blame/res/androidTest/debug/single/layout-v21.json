@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

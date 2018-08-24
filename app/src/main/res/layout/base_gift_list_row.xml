@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:emojicon="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/blogs_list_row_selector">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/postSeparatorLine"
+        android:id="@+id/topSeparatorLine" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/giftContent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:id="@+id/itemImg"
+            android:src="@drawable/app_logo"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/listViewDivider2"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp" />
+
+        <github.ankushsachdeva.emojicon.EmojiconTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Item Cost"
+            android:id="@+id/itemCost"
+            android:fontFamily="sans-serif-light"
+            android:linksClickable="true"
+            android:autoLink="web"
+            android:textColorLink="#5BCFF2"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            emojicon:emojiconSize="24dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/postSeparatorLine"
+        android:id="@+id/bottomSeparatorLine" />
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</LinearLayout>

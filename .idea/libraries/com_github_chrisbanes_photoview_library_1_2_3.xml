@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.chrisbanes.photoview:library-1.2.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes.photoview/library/1.2.3/9ce517de33200a37203f2cb7a855ab4999c8fc5a/library-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes.photoview/library/1.2.3/b29e0a28e980c9abc052045f041b8f11d5aa8c89/library-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

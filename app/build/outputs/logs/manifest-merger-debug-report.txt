@@ -1,0 +1,1104 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:grantUriPermissions
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:32:13-47
+	android:authorities
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:30:13-60
+	android:exported
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:29:13-67
+manifest
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:1:92-6:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:21:1-31:12
+MERGED from [com.pkmmte.view:circularimageview:1.1] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/circularimageview-1.1.aar/565e525295f7ec6e7bcb29e187fd197f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/42e77406ecc0cfe2482dc8aae8cad19d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/a2708fdab444de2888c8c90489cd7beb/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a506da1de391fd490a23be99534dbf5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/1836954679feaa0cec7505addfb60207/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-core:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/76f8966f7382eb6a0b5e5dce65704b26/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.6.2.aar/d9dc1f1eab18115350d26aec827fd9a0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.6.2.aar/140b332241c1cfda62f09a82fb7302db/AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.6.2.aar/1be615b140a61570a1ff9356e4686351/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7f09b0817283f8555c0b745af6746a73/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/45f6caa214adca418f94d8dd1b5f2348/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-places-4.35.0.aar/c572248836c65a24b6619ae7e045dfae/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.35.0.aar/4bdb2daf107014da4aa96b5045c93a1e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6b7d51e45c21aed93b23be434f84aef3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/64b9fe088265a58a0bf47d31305be276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/fdf10309bbec614c9cc4f3b279be41d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c3dac868d6d6e2159e4f24ba35d6dbc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/306fbfd20c31d4b0d5c0effabf69f12a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ecd9912092776f2fc25e0052eb86fe88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/bdd563a48a909febe3fa4fdc43411cfa/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.6.2.aar/54e336f37550afe79275e9f1ddf01341/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.6.2.aar/50af8690d3f769b2b00d27311c2cb8a7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/3acebb4da2ec7735f53f1aa1c75bdbec/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/536425b7691f83ab7f335d872ab48633/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/867808cac0bc2ac02974d5f987ce357a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/fc98c2df9b757342c745156b5c024643/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/acfa596626abd56565f53b2fcccada7c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.6.2.aar/cda0bd3df233b1a5ab0ce2e877e7ed3b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.6.2.aar/37a39cef8889efea0700b64839b4287a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.6.2.aar/50412afd7bdf60c3e7a7643720b448e0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/357471097647935e9627dfde20740057/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/79c5954e5452ea41d5c79ad87d2d529c/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f81a05bba9a1beede925fac8454cf33c/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+	package
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:1-316:12
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_CORSE_LOCATION
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.location.gps
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:19:19-63
+application
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:21:5-314:19
+MERGED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:4:5-81
+MERGED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:4:5-81
+MERGED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.pkmmte.view:circularimageview:1.1] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/circularimageview-1.1.aar/565e525295f7ec6e7bcb29e187fd197f/AndroidManifest.xml:11:5-20
+MERGED from [com.pkmmte.view:circularimageview:1.1] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/circularimageview-1.1.aar/565e525295f7ec6e7bcb29e187fd197f/AndroidManifest.xml:11:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/42e77406ecc0cfe2482dc8aae8cad19d/AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/42e77406ecc0cfe2482dc8aae8cad19d/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/a2708fdab444de2888c8c90489cd7beb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/a2708fdab444de2888c8c90489cd7beb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/1836954679feaa0cec7505addfb60207/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/1836954679feaa0cec7505addfb60207/AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/76f8966f7382eb6a0b5e5dce65704b26/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/76f8966f7382eb6a0b5e5dce65704b26/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.6.2.aar/d9dc1f1eab18115350d26aec827fd9a0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.6.2.aar/d9dc1f1eab18115350d26aec827fd9a0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:23:5-19
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.6.2.aar/1be615b140a61570a1ff9356e4686351/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.6.2.aar/1be615b140a61570a1ff9356e4686351/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7f09b0817283f8555c0b745af6746a73/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7f09b0817283f8555c0b745af6746a73/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-places:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-places-4.35.0.aar/c572248836c65a24b6619ae7e045dfae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-places-4.35.0.aar/c572248836c65a24b6619ae7e045dfae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.35.0.aar/4bdb2daf107014da4aa96b5045c93a1e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.35.0.aar/4bdb2daf107014da4aa96b5045c93a1e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/bdd563a48a909febe3fa4fdc43411cfa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/bdd563a48a909febe3fa4fdc43411cfa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.6.2.aar/54e336f37550afe79275e9f1ddf01341/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.6.2.aar/54e336f37550afe79275e9f1ddf01341/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.6.2.aar/50af8690d3f769b2b00d27311c2cb8a7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.6.2.aar/50af8690d3f769b2b00d27311c2cb8a7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/3acebb4da2ec7735f53f1aa1c75bdbec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/3acebb4da2ec7735f53f1aa1c75bdbec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/536425b7691f83ab7f335d872ab48633/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/536425b7691f83ab7f335d872ab48633/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/867808cac0bc2ac02974d5f987ce357a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/867808cac0bc2ac02974d5f987ce357a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/fc98c2df9b757342c745156b5c024643/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/fc98c2df9b757342c745156b5c024643/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/acfa596626abd56565f53b2fcccada7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/acfa596626abd56565f53b2fcccada7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.6.2.aar/cda0bd3df233b1a5ab0ce2e877e7ed3b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.6.2.aar/cda0bd3df233b1a5ab0ce2e877e7ed3b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.6.2.aar/37a39cef8889efea0700b64839b4287a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.6.2.aar/37a39cef8889efea0700b64839b4287a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.6.2.aar/50412afd7bdf60c3e7a7643720b448e0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.6.2.aar/50412afd7bdf60c3e7a7643720b448e0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/357471097647935e9627dfde20740057/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/357471097647935e9627dfde20740057/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/79c5954e5452ea41d5c79ad87d2d529c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/79c5954e5452ea41d5c79ad87d2d529c/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:25:9-41
+	android:hardwareAccelerated
+		ADDED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:4:45-79
+	android:icon
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:22:9-32
+meta-data#android.app.default_searchable
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:40:9-42:63
+	android:value
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:41:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:44:9-46:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:45:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:48:9-49:54
+	android:value
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:48:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:51:9-54:48
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:52:13-114
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:51:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:55:9-64:20
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:56:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:58:13-63:29
+action#android.intent.action.VIEW
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:59:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:60:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:61:27-75
+data
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:62:17-75
+	android:scheme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:62:23-72
+activity#ru.asterios.open.AppActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:66:9-76:20
+	android:screenOrientation
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:69:13-45
+	android:configChanges
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:68:13-63
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:67:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:71:13-75:29
+action#android.intent.action.MAIN
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:74:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:77:9-80:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:25:9-257
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:79:13-122
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:80:13-61
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:78:13-65
+service#ru.asterios.open.service.MyFcmListenerService
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:82:9-87:19
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:83:13-57
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:84:13-86:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:85:17-78
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:85:25-75
+service#ru.asterios.open.service.MyInstanceIDListenerService
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:89:9-94:19
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:90:13-64
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:91:13-93:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:92:17-80
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:92:25-77
+service#ru.asterios.open.service.MyService
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:96:9-98:40
+	android:exported
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:97:13-46
+activity#ru.asterios.open.LoginActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:100:9-103:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:102:13-57
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:103:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:101:13-42
+activity#ru.asterios.open.SignupActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:104:9-107:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:106:13-58
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:107:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:105:13-43
+activity#ru.asterios.open.MainActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:108:9-110:60
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:110:13-57
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:109:13-41
+activity#ru.asterios.open.RecoveryActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:111:9-114:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:113:13-60
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:114:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:112:13-45
+activity#ru.asterios.open.SettingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:115:9-117:63
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:117:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:116:13-45
+activity#ru.asterios.open.WebViewActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:118:9-120:63
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:120:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:119:13-44
+activity#ru.asterios.open.ChangePasswordActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:121:9-124:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:123:13-67
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:124:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:122:13-51
+activity#ru.asterios.open.ServicesActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:125:9-127:63
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:127:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:126:13-45
+activity#ru.asterios.open.NewItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:128:9-130:63
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:130:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:129:13-44
+activity#ru.asterios.open.ViewItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:131:9-134:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:133:13-61
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:134:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:132:13-45
+activity#ru.asterios.open.ProfileActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:135:9-137:62
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:137:13-59
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:136:13-44
+activity#ru.asterios.open.SearchActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:138:9-144:20
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:140:13-58
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:139:13-43
+meta-data#android.app.searchable
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:141:13-143:54
+	android:resource
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:143:17-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:142:17-54
+activity#ru.asterios.open.NotificationsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:145:9-147:68
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:147:13-65
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:146:13-50
+activity#ru.asterios.open.PhotoViewActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:148:9-151:53
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:150:13-62
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:151:13-50
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:149:13-46
+activity#ru.asterios.open.VideoViewActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:152:9-155:53
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:154:13-62
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:155:13-50
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:153:13-46
+activity#ru.asterios.open.HashtagsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:156:9-158:63
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:158:13-60
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:157:13-45
+activity#ru.asterios.open.FollowingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:159:9-161:65
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:161:13-62
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:160:13-47
+activity#ru.asterios.open.FollowersActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:162:9-164:64
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:164:13-61
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:163:13-46
+activity#ru.asterios.open.LikesActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:165:9-167:60
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:167:13-57
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:166:13-42
+activity#ru.asterios.open.LikersActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:168:9-170:61
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:170:13-58
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:169:13-43
+activity#ru.asterios.open.AccountSettingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:171:9-174:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:173:13-68
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:174:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:172:13-52
+activity#ru.asterios.open.ReportActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:175:9-177:61
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:177:13-58
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:176:13-43
+activity#ru.asterios.open.BlackListActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:178:9-180:65
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:180:13-62
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:179:13-46
+activity#ru.asterios.open.DialogsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:181:9-183:62
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:183:13-59
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:182:13-44
+activity#ru.asterios.open.ChatActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:184:9-187:57
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:186:13-56
+	android:windowSoftInputMode
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:187:13-54
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:185:13-41
+activity#ru.asterios.open.NotificationsSettingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:188:9-190:77
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:190:13-74
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:189:13-58
+activity#ru.asterios.open.PrivacySettingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:191:9-193:71
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:193:13-68
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:192:13-52
+activity#ru.asterios.open.FavoritesActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:194:9-197:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:196:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:197:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:195:13-46
+activity#ru.asterios.open.SupportActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:198:9-201:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:200:13-59
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:201:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:199:13-44
+activity#ru.asterios.open.LocationActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:202:9-207:54
+	android:screenOrientation
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:206:13-49
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:205:13-60
+	android:configChanges
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:204:13-63
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:207:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:203:13-45
+activity#ru.asterios.open.EditItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:208:9-211:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:210:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:211:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:209:13-45
+activity#ru.asterios.open.DeactivateActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:212:9-215:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:214:13-62
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:215:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:213:13-47
+activity#ru.asterios.open.RePostItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:216:9-219:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:218:13-58
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:219:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:217:13-47
+activity#ru.asterios.open.AddPhotoActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:220:9-223:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:222:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:223:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:221:13-45
+activity#ru.asterios.open.GalleryActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:224:9-227:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:226:13-59
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:227:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:225:13-44
+activity#ru.asterios.open.VideoGalleryActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:228:9-231:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:230:13-65
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:231:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:229:13-49
+activity#ru.asterios.open.AddVideoActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:232:9-235:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:234:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:235:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:233:13-45
+activity#ru.asterios.open.ViewImageActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:236:9-239:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:238:13-62
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:239:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:237:13-46
+activity#ru.asterios.open.ViewVideoActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:240:9-243:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:242:13-62
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:243:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:241:13-46
+activity#ru.asterios.open.ManagedGroupsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:244:9-247:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:246:13-66
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:247:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:245:13-50
+activity#ru.asterios.open.NewGroupActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:248:9-251:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:250:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:251:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:249:13-45
+activity#ru.asterios.open.GroupActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:252:9-255:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:254:13-57
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:255:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:253:13-42
+activity#ru.asterios.open.GroupSettingsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:256:9-259:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:258:13-60
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:259:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:257:13-50
+activity#ru.asterios.open.GroupSearchActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:260:9-266:20
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:262:13-58
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:261:13-48
+activity#ru.asterios.open.BalanceActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:268:9-273:20
+	android:screenOrientation
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:271:13-49
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:270:13-59
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:272:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:269:13-44
+activity#ru.asterios.open.SelectGiftActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:275:9-278:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:277:13-63
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:278:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:276:13-47
+activity#ru.asterios.open.SendGiftActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:279:9-282:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:281:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:282:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:280:13-45
+activity#ru.asterios.open.GiftsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:283:9-286:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:285:13-57
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:286:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:284:13-42
+activity#ru.asterios.open.FriendsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:287:9-290:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:289:13-59
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:290:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:288:13-44
+activity#ru.asterios.open.WelcomeActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:291:9-293:61
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:293:13-59
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:292:13-44
+activity#ru.asterios.open.ReferralsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:294:9-297:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:296:13-61
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:297:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:295:13-46
+activity#ru.asterios.open.MarketNewItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:298:9-301:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:300:13-67
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:301:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:299:13-50
+activity#ru.asterios.open.MarketViewItemActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:302:9-305:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:304:13-68
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:305:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:303:13-51
+activity#ru.asterios.open.MarketMyItemsActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:306:9-309:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:308:13-67
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:309:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:307:13-50
+activity#ru.asterios.open.ViewYouTubeVideoActivity
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:310:9-313:54
+	android:label
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:312:13-70
+	android:theme
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:313:13-51
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:311:13-53
+uses-sdk
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+MERGED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:2:5-72
+MERGED from [com.github.chrisbanes.photoview:library:1.2.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/library-1.2.3.aar/0d07ce3e7d6fbd2fa39f7fe8ca0d83c9/AndroidManifest.xml:2:5-72
+MERGED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.35.0.aar/38bc005a1fe1282e47f5eac351c567f7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.pkmmte.view:circularimageview:1.1] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/circularimageview-1.1.aar/565e525295f7ec6e7bcb29e187fd197f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pkmmte.view:circularimageview:1.1] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/circularimageview-1.1.aar/565e525295f7ec6e7bcb29e187fd197f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/42e77406ecc0cfe2482dc8aae8cad19d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/42e77406ecc0cfe2482dc8aae8cad19d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-login:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/a2708fdab444de2888c8c90489cd7beb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/a2708fdab444de2888c8c90489cd7beb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a506da1de391fd490a23be99534dbf5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a506da1de391fd490a23be99534dbf5d/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/1836954679feaa0cec7505addfb60207/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/1836954679feaa0cec7505addfb60207/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/76f8966f7382eb6a0b5e5dce65704b26/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/76f8966f7382eb6a0b5e5dce65704b26/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.6.2.aar/d9dc1f1eab18115350d26aec827fd9a0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.6.2.aar/d9dc1f1eab18115350d26aec827fd9a0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.6.2.aar/140b332241c1cfda62f09a82fb7302db/AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.6.2.aar/140b332241c1cfda62f09a82fb7302db/AndroidManifest.xml:17:5-94
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.6.2.aar/6a0b81edc6da55b0bae0a20080cf97d9/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.6.2.aar/1be615b140a61570a1ff9356e4686351/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.6.2.aar/1be615b140a61570a1ff9356e4686351/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7f09b0817283f8555c0b745af6746a73/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7f09b0817283f8555c0b745af6746a73/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/3dc9635243d9e7c57affd43b981310c9/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/45f6caa214adca418f94d8dd1b5f2348/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/45f6caa214adca418f94d8dd1b5f2348/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-places-4.35.0.aar/c572248836c65a24b6619ae7e045dfae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-places-4.35.0.aar/c572248836c65a24b6619ae7e045dfae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.35.0.aar/4bdb2daf107014da4aa96b5045c93a1e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.35.0.aar/4bdb2daf107014da4aa96b5045c93a1e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6b7d51e45c21aed93b23be434f84aef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6b7d51e45c21aed93b23be434f84aef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/64b9fe088265a58a0bf47d31305be276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/64b9fe088265a58a0bf47d31305be276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/fdf10309bbec614c9cc4f3b279be41d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/fdf10309bbec614c9cc4f3b279be41d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c3dac868d6d6e2159e4f24ba35d6dbc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c3dac868d6d6e2159e4f24ba35d6dbc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/306fbfd20c31d4b0d5c0effabf69f12a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/306fbfd20c31d4b0d5c0effabf69f12a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ecd9912092776f2fc25e0052eb86fe88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/ecd9912092776f2fc25e0052eb86fe88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/bdd563a48a909febe3fa4fdc43411cfa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/bdd563a48a909febe3fa4fdc43411cfa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.6.2.aar/54e336f37550afe79275e9f1ddf01341/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.6.2.aar/54e336f37550afe79275e9f1ddf01341/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.6.2.aar/50af8690d3f769b2b00d27311c2cb8a7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.6.2.aar/50af8690d3f769b2b00d27311c2cb8a7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/3acebb4da2ec7735f53f1aa1c75bdbec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/3acebb4da2ec7735f53f1aa1c75bdbec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/536425b7691f83ab7f335d872ab48633/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/536425b7691f83ab7f335d872ab48633/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/867808cac0bc2ac02974d5f987ce357a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/867808cac0bc2ac02974d5f987ce357a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/fc98c2df9b757342c745156b5c024643/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/fc98c2df9b757342c745156b5c024643/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/acfa596626abd56565f53b2fcccada7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/acfa596626abd56565f53b2fcccada7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.6.2.aar/cda0bd3df233b1a5ab0ce2e877e7ed3b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.6.2.aar/cda0bd3df233b1a5ab0ce2e877e7ed3b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.6.2.aar/37a39cef8889efea0700b64839b4287a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.6.2.aar/37a39cef8889efea0700b64839b4287a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.6.2.aar/50412afd7bdf60c3e7a7643720b448e0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.6.2.aar/50412afd7bdf60c3e7a7643720b448e0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/357471097647935e9627dfde20740057/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/357471097647935e9627dfde20740057/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/79c5954e5452ea41d5c79ad87d2d529c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/79c5954e5452ea41d5c79ad87d2d529c/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f81a05bba9a1beede925fac8454cf33c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f81a05bba9a1beede925fac8454cf33c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:34:13-36:57
+	android:resource
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:36:17-55
+	android:name
+		ADDED from /Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/src/main/AndroidManifest.xml:35:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a6c602ece6ecb5194719e08fad5584ce/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b7b03bf4a772d3acf6611a9c9786dfea/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/AndroidManifest.xml:33:19-68
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/2d1edfd7f62de7c1726c4095daeca9e1/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:23:5-81
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:23:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.6.2.aar/28c8a77754a457e8ee48246703f282cb/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.6.2.aar/9db76b1ab003f05794f1d97af689b6c3/AndroidManifest.xml:20:22-79
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/1243160e36a13f57ebaadb82bed64fb5/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/3f7ac1eabb086ebc4568d511c2ab67f1/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:17-71
+permission#ru.asterios.open.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:27:22-76
+uses-permission#ru.asterios.open.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+ru.asterios.open
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:34:27-58
+category#ru.asterios.open
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/1feac34742e47e895e553ea5dd46fe7a/AndroidManifest.xml:40:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/0ed5fe0e69766516abac7b6792b94786/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f11e5f4e6d37754edd5bdeeb39f22217/AndroidManifest.xml:19:19-85
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.35.0.aar/6cd89947be5962fc26454c54c2fc403c/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.35.0] /Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-core-4.35.0.aar/fc85b61a79d924fca2361ba019ff56a4/AndroidManifest.xml:48:25-92

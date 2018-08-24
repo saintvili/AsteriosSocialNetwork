@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

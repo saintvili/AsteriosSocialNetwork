@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.asterios.open.MainActivity">
+
+    <item
+        android:id="@+id/action_search_groups"
+        android:icon="@drawable/ic_action_search_groups"
+        app:showAsAction="always"
+        android:title="@string/label_search_group"/>
+
+    <item
+        android:id="@+id/action_managed_groups"
+        android:icon="@drawable/ic_action_managed_groups"
+        app:showAsAction="always"
+        android:title="@string/label_managed_groups"/>
+</menu>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/def_list_row_selector">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp">
+
+        <com.pkmmte.view.CircularImageView
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:id="@+id/blockedUser"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/profile_default_photo"
+            app:border="true"
+            app:border_color="@color/avatar_border"
+            app:border_width="1dp"
+            app:shadow="false" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/blockedUserFullname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="User Fullname"
+                    android:textSize="16dp"
+                    android:singleLine="true"
+                    android:drawableRight="@drawable/profile_verify_icon"
+                    android:drawablePadding="5dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:fontFamily="sans-serif-light"
+                    android:layout_marginRight="8dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Reason"
+                    android:id="@+id/blockedReason"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="16.07.1997"
+                    android:id="@+id/blockedTimeAgo"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/gray_text"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="14dp"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_white"
+                    android:text="@string/action_unblock"
+                    android:id="@+id/blockedAction" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</LinearLayout>

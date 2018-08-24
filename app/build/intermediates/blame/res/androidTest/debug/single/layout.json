@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/2dc546d3e6606c8a8a505ecce9a0f184/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.31.0.aar\\c7ec7b727eee18a43721b1f8ac0720c2\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.31.0.aar\\c7ec7b727eee18a43721b1f8ac0720c2\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_search_view.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/tooltip.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.31.0.aar\\c7ec7b727eee18a43721b1f8ac0720c2\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d02d9b0f35527f21cfdf0f372c4822ce\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/77b19a5fc12c7945a65f4925da27e45c/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.31.0.aar\\c7ec7b727eee18a43721b1f8ac0720c2\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_action.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.31.0.aar\\e9fa0712e408a3fdc0bc33ace6c4a304\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/62b5e99a29a0004e19353af6126266cd/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.31.0.aar\\96c4394f778576995cddaafb7887d355\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\b40364e7b0ef8d2ad26e4846bdac0698\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a215cb7c4cd4e96ded47313242ddb256/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/6424396007a4d66ba8986edc302ec819/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]

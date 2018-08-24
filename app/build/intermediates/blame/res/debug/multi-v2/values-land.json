@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/D:\\Android\\AndroidStudioProjects\\MyNetwork\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\61e2c304f26a6f96e372a91559be1a43\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/C:\\Users\\Администратор\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56b6fe43162990e456b8d0fb1cf041d0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/valentin_1607/Downloads/mysocialnetwork45rus 2/AsteriosOpenNetwork/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b8b5f47e890d4dd5e5cd5a754d5b85e8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/Users/valentin_1607/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b21fc8459d4dae8317f887a285b8523/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

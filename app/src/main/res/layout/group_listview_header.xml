@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:padding="16dp"
+            android:paddingBottom="16dp"
+            android:background="#f1f1f1">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal">
+
+                <com.pkmmte.view.CircularImageView
+                    android:layout_width="99dp"
+                    android:layout_height="99dp"
+                    android:src="@drawable/profile_default_photo"
+                    android:id="@+id/groupPhoto"
+                    app:border="true"
+                    app:border_color="#fff"
+                    app:border_width="4dp"
+                    app:shadow="true" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="16dp">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="right">
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="wrap_content"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/groupItemsContainer"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:gravity="center_horizontal"
+                            android:layout_marginRight="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:id="@+id/itemsCount"
+                                android:gravity="center"
+                                android:singleLine="true"
+                                android:textColor="#000"
+                                android:textStyle="bold"
+                                android:fontFamily="sans-serif-light" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/label_items"
+                                android:id="@+id/groupItemsCount"
+                                android:textAllCaps="true"
+                                android:textColor="@color/gray_text"
+                                android:gravity="center"
+                                android:singleLine="true"
+                                android:layout_weight="0"
+                                android:fontFamily="sans-serif-light"
+                                android:ellipsize="end"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="wrap_content"
+                            android:layout_height="fill_parent"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:id="@+id/groupFollowersContainer"
+                            android:gravity="center_horizontal">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:id="@+id/followersCount"
+                                android:singleLine="true"
+                                android:gravity="center"
+                                android:textColor="#000"
+                                android:textStyle="bold"
+                                android:fontFamily="sans-serif-light" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/label_followers"
+                                android:id="@+id/groupFollowersCount"
+                                android:textAllCaps="true"
+                                android:textColor="@color/gray_text"
+                                android:gravity="center"
+                                android:singleLine="true"
+                                android:fontFamily="sans-serif-light"
+                                android:ellipsize="end"
+                                android:textIsSelectable="false"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Community Name"
+                        android:id="@+id/groupName"
+                        android:drawableRight="@drawable/profile_verify_icon"
+                        android:drawablePadding="5dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginTop="35dp"
+                        android:singleLine="true"
+                        android:paddingLeft="5dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/listViewDivider2" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:visibility="visible"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Location"
+                        android:id="@+id/groupLocation"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:paddingLeft="5dp"
+                        android:layout_marginTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="FacebookPage"
+                        android:id="@+id/groupWebsite"
+                        android:textColor="@color/light_blue"
+                        android:paddingLeft="5dp"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:layout_marginTop="5dp" />
+
+                </LinearLayout>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dark_blue"
+                    android:background="@drawable/button_white"
+                    android:text="@string/action_follow"
+                    android:id="@+id/groupActionBtn"
+                    android:stateListAnimator="@null" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bio"
+                android:id="@+id/groupDesc"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="8dp"
+                android:fontFamily="sans-serif-light" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/label_group_havent_items"
+            android:id="@+id/groupWallMsg"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/gray_text"
+            android:textSize="16dp"
+            android:singleLine="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_bg" />
+
+</LinearLayout>

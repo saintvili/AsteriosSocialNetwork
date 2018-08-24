@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.asterios.open"
+    android:versionCode="58"
+    android:versionName="4.5" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_CORSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="ru.asterios.open.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="ru.asterios.open.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="ru.asterios.open.app.App"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MyMaterialTheme" >
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="ru.asterios.open.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="ru.asterios.open.SearchActivity" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.asterios.open.AppActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <service android:name="ru.asterios.open.service.MyFcmListenerService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="ru.asterios.open.service.MyInstanceIDListenerService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="ru.asterios.open.service.MyService"
+            android:exported="false" />
+
+        <activity
+            android:name="ru.asterios.open.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.SignupActivity"
+            android:label="@string/title_activity_signup"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.MainActivity"
+            android:label="@string/title_activity_feeds" />
+        <activity
+            android:name="ru.asterios.open.RecoveryActivity"
+            android:label="@string/title_activity_recovery"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name="ru.asterios.open.WebViewActivity"
+            android:label="@string/title_activity_web_view" />
+        <activity
+            android:name="ru.asterios.open.ChangePasswordActivity"
+            android:label="@string/title_activity_change_password"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.ServicesActivity"
+            android:label="@string/title_activity_services" />
+        <activity
+            android:name="ru.asterios.open.NewItemActivity"
+            android:label="@string/title_activity_new_item" />
+        <activity
+            android:name="ru.asterios.open.ViewItemActivity"
+            android:label="@string/title_activity_view_item"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.ProfileActivity"
+            android:label="@string/title_activity_profile" />
+        <activity
+            android:name="ru.asterios.open.SearchActivity"
+            android:label="@string/title_activity_search" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="ru.asterios.open.NotificationsActivity"
+            android:label="@string/title_activity_notifications" />
+        <activity
+            android:name="ru.asterios.open.PhotoViewActivity"
+            android:label="@string/title_activity_photo_view"
+            android:theme="@style/PhotoViewTheme" />
+        <activity
+            android:name="ru.asterios.open.VideoViewActivity"
+            android:label="@string/title_activity_video_view"
+            android:theme="@style/PhotoViewTheme" />
+        <activity
+            android:name="ru.asterios.open.HashtagsActivity"
+            android:label="@string/title_activity_hashtags" />
+        <activity
+            android:name="ru.asterios.open.FollowingsActivity"
+            android:label="@string/title_activity_followings" />
+        <activity
+            android:name="ru.asterios.open.FollowersActivity"
+            android:label="@string/title_activity_followers" />
+        <activity
+            android:name="ru.asterios.open.LikesActivity"
+            android:label="@string/title_activity_likes" />
+        <activity
+            android:name="ru.asterios.open.LikersActivity"
+            android:label="@string/title_activity_likers" />
+        <activity
+            android:name="ru.asterios.open.AccountSettingsActivity"
+            android:label="@string/title_activity_account_settings"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.ReportActivity"
+            android:label="@string/title_activity_report" />
+        <activity
+            android:name="ru.asterios.open.BlackListActivity"
+            android:label="@string/title_activity_black_list" />
+        <activity
+            android:name="ru.asterios.open.DialogsActivity"
+            android:label="@string/title_activity_dialogs" />
+        <activity
+            android:name="ru.asterios.open.ChatActivity"
+            android:label="@string/title_activity_chat"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="ru.asterios.open.NotificationsSettingsActivity"
+            android:label="@string/title_activity_notifications_settings" />
+        <activity
+            android:name="ru.asterios.open.PrivacySettingsActivity"
+            android:label="@string/title_activity_privacy_settings" />
+        <activity
+            android:name="ru.asterios.open.FavoritesActivity"
+            android:label="@string/title_activity_favorites"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.SupportActivity"
+            android:label="@string/title_activity_support"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.LocationActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_location"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.EditItemActivity"
+            android:label="@string/title_activity_edit_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.DeactivateActivity"
+            android:label="@string/title_activity_deactivate"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.RePostItemActivity"
+            android:label="@string/title_activity_repost"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.AddPhotoActivity"
+            android:label="@string/title_activity_new_photo"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.GalleryActivity"
+            android:label="@string/title_activity_gallery"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.VideoGalleryActivity"
+            android:label="@string/title_activity_video_gallery"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.AddVideoActivity"
+            android:label="@string/title_activity_new_video"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.ViewImageActivity"
+            android:label="@string/title_activity_view_image"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.ViewVideoActivity"
+            android:label="@string/title_activity_view_video"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.ManagedGroupsActivity"
+            android:label="@string/title_activity_managed_groups"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.NewGroupActivity"
+            android:label="@string/title_activity_new_group"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.GroupActivity"
+            android:label="@string/title_activity_group"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.GroupSettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.GroupSearchActivity"
+            android:label="@string/title_activity_search" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="ru.asterios.open.BalanceActivity"
+            android:label="@string/title_activity_balance"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" >
+        </activity>
+        <activity
+            android:name="ru.asterios.open.SelectGiftActivity"
+            android:label="@string/title_activity_select_gift"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.SendGiftActivity"
+            android:label="@string/title_activity_send_gift"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.GiftsActivity"
+            android:label="@string/title_activity_gifts"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.FriendsActivity"
+            android:label="@string/title_activity_friends"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.WelcomeActivity"
+            android:label="@string/title_activity_welcome" />
+        <activity
+            android:name="ru.asterios.open.ReferralsActivity"
+            android:label="@string/title_activity_referrals"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.MarketNewItemActivity"
+            android:label="@string/title_activity_market_new_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.MarketViewItemActivity"
+            android:label="@string/title_activity_market_view_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.MarketMyItemsActivity"
+            android:label="@string/title_activity_market_my_items"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="ru.asterios.open.ViewYouTubeVideoActivity"
+            android:label="@string/title_activity_view_youtube_video"
+            android:theme="@style/MyMaterialTheme" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="ru.asterios.open" />
+            </intent-filter>
+        </receiver>
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="ru.asterios.open.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.facebook.marketing.internal.MarketingInitProvider"
+            android:authorities="ru.asterios.open.MarketingInitProvider"
+            android:exported="false" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="ru.asterios.open.FacebookInitProvider"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

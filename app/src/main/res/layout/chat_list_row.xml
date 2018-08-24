@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:emojicon="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/def_list_row_selector">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp">
+
+        <com.pkmmte.view.CircularImageView
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:id="@+id/chatOpponent"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/profile_default_photo"
+            app:border="true"
+            app:border_color="@color/avatar_border"
+            app:border_width="1dp"
+            app:shadow="false" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/chatOpponentFullname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:drawableRight="@drawable/profile_verify_icon"
+                        android:drawablePadding="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif-light"
+                        android:text="Opponent Fullname"
+                        android:textSize="16dp"
+                        android:layout_weight="1"
+                        android:layout_marginRight="8dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4m ago"
+                    android:id="@+id/chatLastMessageAgo"
+                    android:textColor="@color/gray_text"
+                    android:fontFamily="sans-serif-light"
+                    android:gravity="right" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp">
+
+                <github.ankushsachdeva.emojicon.EmojiconTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Last message"
+                    android:id="@+id/chatLastMessage"
+                    android:textColor="@color/gray_text"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="14dp"
+                    emojicon:emojiconSize="24dp"
+                    android:singleLine="true"
+                    android:layout_weight="1"
+                    android:paddingTop="3dp"
+                    android:paddingBottom="3dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:id="@+id/chatNewMessagesCount"
+                    android:background="@drawable/counter_bg"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</LinearLayout>

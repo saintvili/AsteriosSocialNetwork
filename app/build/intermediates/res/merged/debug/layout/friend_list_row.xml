@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/def_list_row_selector"
+    android:padding="10dp">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.pkmmte.view.CircularImageView
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/personPhoto"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/profile_default_photo"
+                app:border="true"
+                app:border_color="@color/avatar_border"
+                app:border_width="1dp"
+                app:shadow="false" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/personFullName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="User Fullname"
+                android:textSize="17dp"
+                android:drawableRight="@drawable/profile_verify_icon"
+                android:drawablePadding="5dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginTop="1dp"
+                android:layout_marginRight="5dp"
+                android:gravity="center_vertical|center|center_horizontal"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/personUsername"
+                android:textSize="14dp"
+                android:textStyle="normal"
+                android:textColor="@color/gray_text"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif-light"
+                android:singleLine="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time Ago"
+                android:id="@+id/timeAgo"
+                android:textSize="14dp"
+                android:textStyle="normal"
+                android:textColor="@color/gray_text"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif-light"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Online"
+                android:id="@+id/online"
+                android:textSize="14dp"
+                android:textStyle="normal"
+                android:textColor="#108E3A"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif-light"
+                android:singleLine="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</RelativeLayout>

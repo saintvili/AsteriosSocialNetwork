@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.asterios.open.ManagedGroupsActivity">
+
+    <item
+        android:id="@+id/action_create_groups"
+        android:icon="@drawable/ic_action_new"
+        app:showAsAction="always"
+        android:title="@string/action_create_group"/>
+</menu>

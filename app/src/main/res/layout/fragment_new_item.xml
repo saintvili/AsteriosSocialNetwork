@@ -1,0 +1,195 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".NewItemFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:minHeight="200dip"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:gravity="center_vertical"
+            android:id="@+id/postModeChoose">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_post_to"
+                android:id="@+id/labelTo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_post_to_public"
+                android:id="@+id/labelPostMode"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:singleLine="true"
+                android:textColor="@color/dark_blue" />
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:id="@+id/imageView"
+                android:src="@drawable/ic_action_right_arrow" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_bg" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/locationContainer">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:gravity="center_vertical"
+                android:id="@+id/linearLayout" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_post_location"
+                    android:id="@+id/labelLocation" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Country"
+                        android:id="@+id/locationCountry"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="0"
+                        android:singleLine="true"
+                        android:textColor="@color/dark_blue" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="City"
+                        android:id="@+id/locationCity"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginRight="10dp"
+                        android:singleLine="true"
+                        android:textColor="@color/dark_blue" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:id="@+id/locationDelete"
+                    android:src="@drawable/ic_action_remove" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray_bg" />
+
+        </LinearLayout>
+
+        <github.ankushsachdeva.emojicon.EmojiconEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/postEdit"
+            android:hint="@string/placeholder_post"
+            android:scrollbarStyle="outsideInset"
+            android:scrollbars="vertical"
+            android:overScrollMode="never"
+            android:gravity="left|top"
+            android:background="#00000000"
+            android:maxLength="1000"
+            android:textSize="16dp"
+            emojicon:emojiconSize="24dp"
+            android:padding="7dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/gray_bg">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:id="@+id/choicePostImg"
+                android:src="@drawable/ic_action_camera"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="6dp" />
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:id="@+id/choiceVideo"
+                android:src="@drawable/ic_action_video_file"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="6dp" />
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:id="@+id/emojiBtn"
+                android:background="@drawable/ic_emoji"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="6dp" />
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:id="@+id/addLocation"
+                android:src="@drawable/ic_add_location"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="6dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

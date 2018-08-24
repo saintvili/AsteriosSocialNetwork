@@ -1,0 +1,12 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".NotificationsActivity">
+
+    <item
+        android:id="@+id/action_remove_all"
+        android:title="@string/action_remove_all"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

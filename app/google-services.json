@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "555368906799",
+    "firebase_url": "https://asterios-network.firebaseio.com",
+    "project_id": "asterios-network",
+    "storage_bucket": "asterios-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555368906799:android:4245a69f8abe6bdb",
+        "android_client_info": {
+          "package_name": "ru.asterios.open"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555368906799-sciirjft6qvco7p4mb1abjrvmsu9cqan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3Z6tAGXOSju_eprGJkCaek81WORKM8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555368906799:android:f0e8a24afae11d86",
+        "android_client_info": {
+          "package_name": "ru.mrvilitin.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555368906799-7rn3p0hg2e5jnfphhf4mh2b0mmtjclb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.mrvilitin.network",
+            "certificate_hash": "0e32029fb7c16125a4165e179752b2b4c5b8efc6"
+          }
+        },
+        {
+          "client_id": "555368906799-sciirjft6qvco7p4mb1abjrvmsu9cqan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3Z6tAGXOSju_eprGJkCaek81WORKM8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555368906799-sciirjft6qvco7p4mb1abjrvmsu9cqan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555368906799-skgnatj85q0br56v6tvo3ef7klsm6n7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.mrvilitin.ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2867761105125405~4581442777"
+    }
+  ],
+  "configuration_version": "1"
+}

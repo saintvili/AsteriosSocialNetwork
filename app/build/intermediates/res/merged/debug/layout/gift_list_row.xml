@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:emojicon="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/blogs_list_row_selector">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/postSeparatorLine"
+        android:id="@+id/postTopSeparatorLine" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:id="@+id/postHeader"
+        android:layout_marginBottom="10dp">
+
+        <com.pkmmte.view.CircularImageView
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:id="@+id/itemAuthorPhoto"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/profile_default_photo"
+            app:border="true"
+            app:border_color="@color/content_page"
+            app:border_width="1dp"
+            app:shadow="false" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginRight="5dp">
+
+                    <TextView
+                        android:id="@+id/itemAuthor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="Item Author Fullname"
+                        android:textSize="16dp"
+                        android:drawableRight="@drawable/profile_verify_icon"
+                        android:drawablePadding="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif-light" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="\@username"
+                        android:id="@+id/itemUsername"
+                        android:singleLine="true"
+                        android:fontFamily="sans-serif-light" />
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="2dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1m ago"
+                            android:id="@+id/itemTimeAgo"
+                            android:singleLine="true"
+                            android:fontFamily="sans-serif-light"
+                            android:textColor="@color/gray_text"
+                            android:textSize="12dp"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_centerVertical="true"
+                            android:gravity="center_vertical" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:id="@+id/itemAction"
+                    android:src="@drawable/ic_action_remove"
+                    android:minHeight="24dp"
+                    android:minWidth="24dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/postContent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:id="@+id/itemImg"
+            android:src="@drawable/app_logo"
+            android:layout_marginBottom="16dp" />
+
+        <github.ankushsachdeva.emojicon.EmojiconTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Item Text"
+            android:id="@+id/itemMessage"
+            android:fontFamily="sans-serif-light"
+            android:linksClickable="true"
+            android:autoLink="web"
+            android:textColorLink="#5BCFF2"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            emojicon:emojiconSize="24dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="10dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/postSeparatorLine"
+        android:id="@+id/postBottomSeparatorLine" />
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:key="allowLikesGCM"
+        android:title="@string/settings_notifications_likes">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowCommentsGCM"
+        android:title="@string/settings_notifications_comments">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowFollowersGCM"
+        android:title="@string/settings_notifications_followers">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowMessagesGCM"
+        android:title="@string/settings_notifications_messages">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowCommentReplyGCM"
+        android:title="@string/settings_notifications_comment_reply">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowGiftsGCM"
+        android:title="@string/settings_notifications_gifts">
+    </CheckBoxPreference>
+
+</PreferenceScreen>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="ru.asterios.open">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_CORSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyMaterialTheme">
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+
+        </provider>
+
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="ru.asterios.open.SearchActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"/>
+
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".AppActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <service
+            android:name=".service.MyFcmListenerService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name=".service.MyInstanceIDListenerService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name=".service.MyService"
+            android:exported="false" />
+
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".SignupActivity"
+            android:label="@string/title_activity_signup"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_feeds" />
+        <activity
+            android:name=".RecoveryActivity"
+            android:label="@string/title_activity_recovery"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".WebViewActivity"
+            android:label="@string/title_activity_web_view" />
+        <activity
+            android:name=".ChangePasswordActivity"
+            android:label="@string/title_activity_change_password"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ServicesActivity"
+            android:label="@string/title_activity_services" />
+        <activity
+            android:name=".NewItemActivity"
+            android:label="@string/title_activity_new_item" />
+        <activity
+            android:name=".ViewItemActivity"
+            android:label="@string/title_activity_view_item"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/title_activity_search">
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".NotificationsActivity"
+            android:label="@string/title_activity_notifications" />
+        <activity
+            android:name=".PhotoViewActivity"
+            android:label="@string/title_activity_photo_view"
+            android:theme="@style/PhotoViewTheme" />
+        <activity
+            android:name=".VideoViewActivity"
+            android:label="@string/title_activity_video_view"
+            android:theme="@style/PhotoViewTheme" />
+        <activity
+            android:name=".HashtagsActivity"
+            android:label="@string/title_activity_hashtags" />
+        <activity
+            android:name=".FollowingsActivity"
+            android:label="@string/title_activity_followings" />
+        <activity
+            android:name=".FollowersActivity"
+            android:label="@string/title_activity_followers" />
+        <activity
+            android:name=".LikesActivity"
+            android:label="@string/title_activity_likes" />
+        <activity
+            android:name=".LikersActivity"
+            android:label="@string/title_activity_likers" />
+        <activity
+            android:name=".AccountSettingsActivity"
+            android:label="@string/title_activity_account_settings"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ReportActivity"
+            android:label="@string/title_activity_report" />
+        <activity
+            android:name=".BlackListActivity"
+            android:label="@string/title_activity_black_list" />
+        <activity
+            android:name=".DialogsActivity"
+            android:label="@string/title_activity_dialogs" />
+        <activity
+            android:name=".ChatActivity"
+            android:label="@string/title_activity_chat"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".NotificationsSettingsActivity"
+            android:label="@string/title_activity_notifications_settings" />
+        <activity
+            android:name=".PrivacySettingsActivity"
+            android:label="@string/title_activity_privacy_settings" />
+        <activity
+            android:name=".FavoritesActivity"
+            android:label="@string/title_activity_favorites"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".SupportActivity"
+            android:label="@string/title_activity_support"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".LocationActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_location"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".EditItemActivity"
+            android:label="@string/title_activity_edit_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".DeactivateActivity"
+            android:label="@string/title_activity_deactivate"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".RePostItemActivity"
+            android:label="@string/title_activity_repost"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".AddPhotoActivity"
+            android:label="@string/title_activity_new_photo"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".GalleryActivity"
+            android:label="@string/title_activity_gallery"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".VideoGalleryActivity"
+            android:label="@string/title_activity_video_gallery"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".AddVideoActivity"
+            android:label="@string/title_activity_new_video"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".ViewImageActivity"
+            android:label="@string/title_activity_view_image"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".ViewVideoActivity"
+            android:label="@string/title_activity_view_video"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".ManagedGroupsActivity"
+            android:label="@string/title_activity_managed_groups"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".NewGroupActivity"
+            android:label="@string/title_activity_new_group"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".GroupActivity"
+            android:label="@string/title_activity_group"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".GroupSettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".GroupSearchActivity"
+            android:label="@string/title_activity_search">
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+
+        <activity
+            android:name=".BalanceActivity"
+            android:label="@string/title_activity_balance"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme">
+        </activity>
+
+        <activity
+            android:name=".SelectGiftActivity"
+            android:label="@string/title_activity_select_gift"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".SendGiftActivity"
+            android:label="@string/title_activity_send_gift"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".GiftsActivity"
+            android:label="@string/title_activity_gifts"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".FriendsActivity"
+            android:label="@string/title_activity_friends"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:label="@string/title_activity_welcome"/>
+        <activity
+            android:name=".ReferralsActivity"
+            android:label="@string/title_activity_referrals"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".MarketNewItemActivity"
+            android:label="@string/title_activity_market_new_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".MarketViewItemActivity"
+            android:label="@string/title_activity_market_view_item"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".MarketMyItemsActivity"
+            android:label="@string/title_activity_market_my_items"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".ViewYouTubeVideoActivity"
+            android:label="@string/title_activity_view_youtube_video"
+            android:theme="@style/MyMaterialTheme" />
+    </application>
+
+</manifest>

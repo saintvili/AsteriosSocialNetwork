@@ -1,0 +1,148 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="ru.asterios.open.SignupFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:background="#fff">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:background="#fff">
+
+            <com.facebook.login.widget.LoginButton
+                xmlns:facebook="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/login_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                facebook:com_facebook_login_text="@string/action_signup_with_facebook"
+                facebook:com_facebook_logout_text="@string/action_signup_with_facebook"
+                android:padding="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_marginBottom="20dp" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:id="@+id/actionContainer"
+                android:background="@color/content_page"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_authorization_via_facebook"
+                    android:id="@+id/labelAuthorizationViaFacebook" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/action_regular_signup"
+                    android:id="@+id/regularSignup"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/light_blue" />
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:hint="@string/placeholder_login"
+                android:ems="10"
+                android:layout_marginTop="10dp"
+                android:maxLength="24"
+                android:id="@+id/signupUsername" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:hint="@string/placeholder_fullname"
+                android:ems="10"
+                android:layout_marginTop="10dp"
+                android:maxLength="24"
+                android:id="@+id/signupFullname" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:hint="@string/placeholder_password"
+                android:id="@+id/signupPassword"
+                android:layout_marginTop="10dp"
+                android:maxLength="20"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:hint="@string/placeholder_email"
+                android:ems="10"
+                android:maxLength="64"
+                android:layout_marginTop="10dp"
+                android:id="@+id/signupEmail" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_signup_invite"
+                android:id="@+id/textView2"
+                android:layout_marginTop="10dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/label_user_id"
+                android:ems="10"
+                android:maxLength="64"
+                android:layout_marginTop="10dp"
+                android:id="@+id/signupReferrerId" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signup_label_1"
+                android:id="@+id/textView1"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signup_label_terms_and_policies"
+                android:id="@+id/SignupLabelTerms"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/light_blue" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/action_signup"
+                android:id="@+id/signupJoinHowBtn"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:background="@drawable/button_primary"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

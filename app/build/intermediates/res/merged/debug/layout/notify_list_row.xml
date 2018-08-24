@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/def_list_row_selector">
+
+    <!-- Thumbnail Image -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <com.pkmmte.view.CircularImageView
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/notifyAuthor"
+                android:src="@drawable/profile_default_photo"
+                app:border="true"
+                app:border_color="@color/content_page"
+                app:border_width="1dp"
+                app:shadow="false"
+                android:layout_marginRight="10dp" />
+
+            <com.pkmmte.view.CircularImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:id="@+id/notifyType"
+                android:src="@drawable/notify_like"
+                app:border="true"
+                app:border_color="@color/content_page"
+                app:border_width="1dp"
+                app:shadow="false"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="-30dp"
+                android:layout_marginRight="8dp" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/notifyTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Notification title"
+                    android:textSize="16dp"
+                    android:textStyle="normal"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="16.07.1997"
+                    android:id="@+id/notifyTimeAgo"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/gray_text"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="14dp"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Person Full name -->
+
+    <!-- Status -->
+
+</LinearLayout>

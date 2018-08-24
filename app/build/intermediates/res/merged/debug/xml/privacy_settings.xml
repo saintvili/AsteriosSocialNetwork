@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:key="allowInfo"
+        android:title="@string/settings_privacy_info">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowVideos"
+        android:title="@string/settings_privacy_videos">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowFriends"
+        android:title="@string/settings_privacy_friends">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowPhotos"
+        android:title="@string/settings_privacy_photos">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        android:key="allowGifts"
+        android:title="@string/settings_privacy_gifts">
+    </CheckBoxPreference>
+
+</PreferenceScreen>

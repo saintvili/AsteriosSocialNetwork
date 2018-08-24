@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:background="@drawable/nav_drawer_selector"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:clickable="true" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="16dp"
+            android:id="@+id/iv_NavIcon"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_NavTitle"
+            android:textColor="#3c3b3b"
+            android:textSize="16dp"
+            android:text="Title"
+            android:layout_gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/iv_NavIcon"
+            android:layout_toEndOf="@+id/iv_NavIcon"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold" />
+
+        <TextView android:id="@+id/tv_NavCounter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/counter_bg"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dp"
+            android:textColor="@color/white"
+            android:text="0"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</RelativeLayout>
