@@ -104,11 +104,37 @@ public class MyFcmListenerService extends FirebaseMessagingService implements Co
             msgFromUserUsername = data.get("msgFromUserUsername").toString();
             msgFromUserFullname = data.get("msgFromUserFullname").toString();
             msgFromUserPhotoUrl = data.get("msgFromUserPhotoUrl").toString();
-            msgMessage = data.get("msgMessage").toString();
-            msgImgUrl = data.get("msgImgUrl").toString();
-            msgCreateAt = data.get("msgCreateAt").toString();
-            msgDate = data.get("msgDate").toString();
-            msgTimeAgo = data.get("msgTimeAgo").toString();
+        //    msgMessage = data.get("msgMessage").toString();
+          //  msgImgUrl = data.get("msgImgUrl").toString();
+            //msgCreateAt = data.get("msgCreateAt").toString();
+            //msgDate = data.get("msgDate").toString();
+            //msgTimeAgo = data.get("msgTimeAgo").toString();
+            
+            if (data.containsKey("msgFromUserUsername")) {
+
+    msgFromUserUsername = data.get("msgFromUserUsername").toString();
+}
+
+if (data.containsKey("msgFromUserFullname")) {
+
+    msgFromUserFullname = data.get("msgFromUserFullname").toString();
+}
+
+if (data.containsKey("msgFromUserPhotoUrl")) {
+
+    msgFromUserPhotoUrl = data.get("msgFromUserPhotoUrl").toString();
+}
+
+if (data.containsKey("msgMessage")) {
+
+    msgMessage = data.get("msgMessage").toString();
+}
+
+if (data.containsKey("msgImgUrl")) {
+
+    msgImgUrl = data.get("msgImgUrl").toString();
+}
+            
             msgRemoveAt = data.get("msgRemoveAt").toString();
         }
 
