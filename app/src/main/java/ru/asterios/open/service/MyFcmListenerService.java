@@ -95,21 +95,13 @@ public class MyFcmListenerService extends FirebaseMessagingService implements Co
         String actionId = data.get("id").toString();
         String accountId = data.get("accountId").toString();
 
+     
         if (Integer.valueOf(type) == GCM_NOTIFY_MESSAGE) {
 
             msgId = data.get("msgId").toString();
             msgFromUserId = data.get("msgFromUserId").toString();
             msgFromUserState = data.get("msgFromUserState").toString();
             msgFromUserVerify = data.get("msgFromUserVerify").toString();
-            msgFromUserUsername = data.get("msgFromUserUsername").toString();
-            msgFromUserFullname = data.get("msgFromUserFullname").toString();
-            msgFromUserPhotoUrl = data.get("msgFromUserPhotoUrl").toString();
-        //    msgMessage = data.get("msgMessage").toString();
-          //  msgImgUrl = data.get("msgImgUrl").toString();
-            //msgCreateAt = data.get("msgCreateAt").toString();
-            //msgDate = data.get("msgDate").toString();
-            //msgTimeAgo = data.get("msgTimeAgo").toString();
-            
             if (data.containsKey("msgFromUserUsername")) {
 
     msgFromUserUsername = data.get("msgFromUserUsername").toString();
